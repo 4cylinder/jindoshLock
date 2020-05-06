@@ -22,6 +22,6 @@ Make sure you spell all names correctly with spaces where appropriate (e.g. do n
 If you filled in the blanks correctly, the answer should be outputted within seconds. There is only one possible answer for every valid combination of variables.
 
 ## Example Riddle and Solution
-![image](https://github.com/4cylinder/jindoshLock/example.jpg)
+![image](https://github.com/4cylinder/jindoshLock/blob/master/example.jpg?raw=true)
 
-![image](https://github.com/4cylinder/jindoshLock/examplesolution.png)
+![image](https://github.com/4cylinder/jindoshLock/blob/master/examplesolution.png?raw=true)
