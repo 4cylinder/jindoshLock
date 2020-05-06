@@ -1,0 +1,5 @@
+"Key1","Value1","Relation","Key2","Value2"
+"Colour","[5]","Left","Colour","[6]"
+"Heirloom","[10]","Next","City","[11]"
+"City","[17]","Next","Drink","[18]"
+"City","[17]","Next","Heirloom","[16]"
